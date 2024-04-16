@@ -11,3 +11,7 @@ This package and repository are intended for educational purposes only. They wer
 ```bash
 pip install mathy-project==0.1
 ```
+
+## License
+
+This project is licensed under [LICENSE](license.txt)
