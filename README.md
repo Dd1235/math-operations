@@ -14,4 +14,4 @@ pip install mathy-project==0.1
 
 ## License
 
-This project is licensed under [LICENSE](license.txt)
+This project is licensed under [LICENSE](https://github.com/Dd1235/math-operations/blob/main/LICENSE.txt)
