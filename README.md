@@ -9,4 +9,5 @@ This package and repository are intended for educational purposes only. They wer
 ## Installation
 
 ```bash
-pip install math_operations
+pip install mathy-project==0.1
+```

@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="math-operations",
+    name="mathy_project",
     version="0.1",
     packages=find_packages(),
     description="Package made for an aptitude test, which contains functions for basic math operations",
