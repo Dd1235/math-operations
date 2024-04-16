@@ -9,7 +9,7 @@ This package and repository are intended for educational purposes only. They wer
 ## Installation
 
 ```bash
-pip install mathy-project==0.1
+pip install mathy-project
 ```
 
 ## License

@@ -1,7 +1,7 @@
 LICENSE.txt
 README.md
 setup.py
-math-operations/__init__.py
+mathy_project/__init__.py
 mathy_project.egg-info/PKG-INFO
 mathy_project.egg-info/SOURCES.txt
 mathy_project.egg-info/dependency_links.txt

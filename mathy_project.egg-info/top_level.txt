@@ -1,1 +1,1 @@
-math-operations
+mathy_project

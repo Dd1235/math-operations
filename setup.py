@@ -1,8 +1,8 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="mathy_project",
-    version="0.1",
+    name="mathy-project",
+    version="0.1.2",
     packages=find_packages(),
     description="Package made for an aptitude test, which contains functions for basic math operations",
     author="Dedeepya Avancha",
